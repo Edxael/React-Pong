@@ -2,7 +2,7 @@
 
 A classic with a React.js Spin
 
-Live App URL-link: [www.react-pont.mycode.website](http://senators.mycode.website/)
+Live App URL-link: [www.react-pong.mycode.website](http://react-pong.mycode.website/)
 
 This project will render:
 
@@ -21,3 +21,14 @@ For more information check the Blog-Post: [React-Pong](http://blog.mycode.websit
 Portfolio: www.mycode.website
 
 Resume: www.edmundorubio.site
+
+
+Technicality:
+
+React.JS
+
+HTML – CSS
+
+Heroku
+
+Click the image to open the live website in a new tab: PANDORUM
