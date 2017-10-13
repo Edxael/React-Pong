@@ -21,14 +21,3 @@ For more information check the Blog-Post: [React-Pong](http://blog.mycode.websit
 Portfolio: www.mycode.website
 
 Resume: www.edmundorubio.site
-
-
-Technicality:
-
-React.JS
-
-HTML – CSS
-
-Heroku
-
-Click the image to open the live website in a new tab: PANDORUM
